@@ -1,0 +1,10 @@
+* {
+  margin: 3px;
+  padding: 3px;
+  border: 3px;
+  font-size: small;
+}
+
+nav ul li {
+  display: inline-block;
+}
